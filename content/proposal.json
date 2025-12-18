@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "title": "Hoe werkt een Nederlandse ARPA?",
+    "subtitle": "Uitgebreid voorstel en institutioneel ontwerp van een Nationaal Agentschap voor Disruptieve Innovatie (NADI)"
+  },
+  "sections": [
+    {
+      "id": "hoe-werkt-nadi",
+      "title": "Hoe werkt NADI?",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Het Nationaal Agentschap voor Disruptieve Innovatie (NADI) is ontworpen als antwoord op een structureel probleem in het Nederlandse innovatiesysteem. Nederland beschikt over sterke wetenschap, goed opgeleide mensen en een solide basis voor onderzoek en ontwikkeling. Toch blijft de vertaling van kennis naar grootschalige maatschappelijke en economische impact achter. Veelbelovende technologieën stranden in een tussenfase, waarin risico’s te groot zijn voor de markt en bestaande publieke instrumenten onvoldoende zijn ingericht op snelheid, focus en onzekerheid."
+        },
+        {
+          "type": "text",
+          "content": "NADI is opgezet om precies die tussenfase te adresseren. Het is geen klassiek subsidie-instrument of fonds, maar een uitvoerende innovatie-organisatie met een expliciet mandaat om risicovolle, potentieel transformatieve doorbraken mogelijk te maken."
+        }
+      ]
+    },
+    {
+      "id": "van-probleem-naar-programma",
+      "title": "Van probleem naar programma",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Het vertrekpunt van NADI is niet een technologie, maar een probleem. Elk traject begint met een scherp geformuleerde vraag: welk maatschappelijk of strategisch probleem is groot, urgent en onvoldoende opgelost, en wat zou er veranderen als een fundamenteel nieuwe oplossing mogelijk blijkt?"
+        },
+        {
+          "type": "text",
+          "content": "Deze vraag wordt uitgewerkt als een zogenoemde “big-if-true”-hypothese. Niet als beleidsambitie, maar als toetsbare aanname. Wat als deze doorbraak technisch en economisch haalbaar blijkt? Wat zou dat betekenen voor energie, veiligheid, zorg of digitale infrastructuur?"
+        },
+        {
+          "type": "text",
+          "content": "Rond zo’n hypothese wordt een tijdelijk NADI-programma ingericht. Programma’s hebben een duidelijke looptijd, doorgaans drie tot vijf jaar, en een afgebakend budget van rond de €50 - 100 miljoen. Ze zijn volledig probleemgedreven en eindig. NADI-programma’s zijn geen permanente instituten, maar gerichte interventies met een duidelijk begin- en eindpunt."
+        }
+      ]
+    },
+    {
+      "id": "de-rol-van-de-innovation-director",
+      "title": "De rol van de Innovation Director",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Elk NADI-programma staat onder leiding van één Innovation Director. Dit is geen projectmanager, maar een technisch-ondernemende leider met inhoudelijke expertise én ervaring met introduceren van disruptieve ideeën. De Innovation Director is eindverantwoordelijk voor de inhoud, voortgang en keuzes binnen het programma."
+        },
+        {
+          "type": "text",
+          "content": "In de eerste fase werkt de Innovation Director samen met externe experts, onderzoeksinstellingen, bedrijven en potentiële afnemers aan een routekaart. Hierin worden de kernvragen, technologische en economische onzekerheden, mijlpalen en het beoogde eindpunt vastgelegd. Deze fase is nadrukkelijk gericht op het scherp krijgen van wat er écht moet worden opgelost, niet op het verdelen van middelen."
+        }
+      ]
+    },
+    {
+      "id": "parallel-werken-aan-meerdere-oplossingsroutes",
+      "title": "Parallel werken aan meerdere oplossingsroutes",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Een essentieel kenmerk van een NADI programma is dat het niet inzet op één oplossing. Binnen elk programma worden meerdere externe teams geselecteerd die parallel geld krijgen om aan verschillende oplossingsroutes werken. Sommige trajecten overlappen bewust, zodat er redundantie ontstaat. Andere vullen juist verschillende onderdelen van dezelfde waardeketen in."
+        },
+        {
+          "type": "text",
+          "content": "Deze parallelle aanpak vergroot de kans op succes en voorkomt dat één verkeerde aanname het hele programma onderuit haalt. Het stelt NADI ook in staat om snel te leren. Als een bepaalde route niet werkt, kan deze worden stopgezet zonder dat het hele programma faalt."
+        },
+        {
+          "type": "text",
+          "content": "De Innovation Director stuurt actief op voortgang. Zij kan gericht teams en bedrijven uitnodigen om deel te nemen aan het programma en middelen toewijzen zonder zware bureaucratische procedures. Op vaste, frequente evaluatiemomenten wordt besloten of trajecten worden voortgezet, aangepast of beëindigd. Middelen worden daarbij snel herverdeeld naar oplossingsroutes die aantoonbare voortgang laten zien. Succes leidt niet tot verlenging omwille van continuïteit, maar tot gerichte opschaling richting toepassing en implementatie."
+        }
+      ]
+    },
+    {
+      "id": "falen-als-onderdeel-van-het-ontwerp",
+      "title": "Falen als onderdeel van het ontwerp",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "NADI is expliciet ingericht op onzekerheid. Niet elk project hoeft te slagen. Sterker nog, als alles slaagt, is het risico waarschijnlijk te laag genomen. Het succes van NADI wordt niet beoordeeld per project, maar op portefeuilleniveau."
+        },
+        {
+          "type": "text",
+          "content": "Deze portfolio-aanpak maakt het mogelijk om ambitieuze doelen na te streven zonder de illusie van voorspelbaarheid. Mislukkingen leveren kennis op en helpen om sneller tot betere oplossingen te komen. De waarde ontstaat doordat een beperkt aantal succesvolle trajecten een grote maatschappelijke en economische impact heeft."
+        }
+      ]
+    },
+    {
+      "id": "wat-internationale-arpa-s-laten-zien",
+      "title": "Wat internationale ARPA’s laten zien",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "De werking van NADI is gebaseerd op internationale ervaringen met ARPA-achtige organisaties. Deze laten zien dat een relatief kleine, autonome publieke organisatie een uitzonderlijk grote impact kan hebben, mits zij is ingericht rond autonomie, talent en risicotolerantie."
+        },
+        {
+          "type": "text",
+          "content": "Sinds de oprichting van DARPA eind jaren vijftig zijn programma’s vanuit deze organisatie mede verantwoordelijk geweest voor technologische doorbraken die complete industrieën hebben gevormd. Vroege DARPA-programma’s legden de basis voor het internet, moderne halfgeleidertechnologie en GPS, technologieën die vandaag essentieel zijn voor digitale infrastructuur, logistiek, mobiliteit, landbouw en financiële systemen. Latere programma’s speelden een belangrijke rol in de ontwikkeling van autonome systemen, geavanceerde sensortechnologie, cybersecurity en kunstmatige intelligentie."
+        },
+        {
+          "type": "text",
+          "content": "Belangrijk is dat deze doorbraken niet het resultaat waren van één succesvol project, maar van een portfolio-aanpak waarin veel trajecten mislukten en enkele uitzonderlijke successen het verschil maakten. Over meerdere decennia bezien heeft deze aanpak geleid tot een publiek rendement dat een veelvoud bedraagt van de oorspronkelijke investeringen."
+        },
+        {
+          "type": "text",
+          "content": "Ook buiten defensie heeft het ARPA-model zijn waarde bewezen. ARPA-E, gericht op energie-innovatie, liet zien dat hetzelfde institutionele ontwerp kan leiden tot doorbraken in domeinen als kernfusie, energieopslag en nieuwe materialen, en daarbij aanzienlijke private vervolgfinanciering kan mobiliseren. Europese varianten, zoals in Duitsland en het Verenigd Koninkrijk, zijn recenter maar laten nu al zien dat zij een functie vervullen die elders in het innovatiesysteem ontbreekt: het overbruggen van precies die fases waar marktfalen het grootst is."
+        },
+        {
+          "type": "text",
+          "content": "Deze internationale ervaringen onderstrepen dat het succes van een ARPA niet voortkomt uit thema-keuze, maar uit organisatieontwerp."
+        }
+      ]
+    },
+    {
+      "id": "van-ontwikkeling-naar-toepassing",
+      "title": "Van ontwikkeling naar toepassing",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Een veelvoorkomend probleem in innovatiebeleid is dat trajecten eindigen bij een prototype of demonstratie. NADI is juist ontworpen om dit te voorkomen. Elk programma wordt vanaf de start ingericht rond een duidelijk overgangspunt, het moment waarop moet blijken of een innovatie zelfstandig verder kan."
+        },
+        {
+          "type": "text",
+          "content": "Dit overgangspunt kan verschillende vormen aannemen. Het kan leiden tot de oprichting van een nieuw bedrijf, tot technologieoverdracht naar een bestaande organisatie, tot een innovatiepartnerschap met een publieke opdrachtgever of tot directe toepassing binnen overheid of industrie. Als tijdens het programma blijkt dat een andere route meer impact oplevert dan oorspronkelijk gedacht, wordt de koers aangepast."
+        },
+        {
+          "type": "text",
+          "content": "Om deze overgang te ondersteunen, beschikt NADI over expliciete expertise op het gebied van marktintroductie, regelgeving, inkoop, intellectueel eigendom en vervolgfinanciering. Deze technologie-naar-marktfunctie is geen bijzaak, maar een kernonderdeel van hoe NADI werkt."
+        }
+      ]
+    },
+    {
+      "id": "autonomie-en-organisatorische-randvoorwaarden",
+      "title": "Autonomie en organisatorische randvoorwaarden",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "De werkwijze van NADI vereist een institutionele inrichting die fundamenteel afwijkt van reguliere publieke organisaties. Autonomie is daarbij geen luxe, maar een praktische voorwaarde om snelheid, focus en risicotolerantie mogelijk te maken. Doorbraakinnovatie laat zich niet organiseren binnen structuren die zijn ontworpen voor voorspelbaarheid, uniforme procedures en ex-ante verantwoording."
+        },
+        {
+          "type": "text",
+          "content": "Daarom opereert NADI op afstand van dagelijkse politieke sturing en bestaande organisaties en bureaucratische kaders. Strategische doelstellingen en publieke verantwoording zijn helder belegd, maar operationele beslissingen liggen bij het bestuur en de Innovation Directors. Zij moeten in staat zijn om programma’s te starten, bij te sturen of te beëindigen zonder langdurige goedkeuringsprocessen. Zonder deze beslisruimte verdwijnt tempo, en zonder tempo verliest het ARPA-model zijn effectiviteit."
+        },
+        {
+          "type": "text",
+          "content": "Om het benodigde talent aan te trekken en te behouden, hanteert NADI Engels als voertaal. Dit vergemakkelijkt de werving van internationaal toptalent, de samenwerking met buitenlandse onderzoeksgroepen en bedrijven, en de aansluiting bij internationale kennisnetwerken. Doorbraakinnovatie speelt zich per definitie af in een internationale context, en NADI moet daarin volwaardig kunnen opereren."
+        },
+        {
+          "type": "text",
+          "content": "Ook op het gebied van arbeidsvoorwaarden is zelfstandigheid essentieel. NADI bepaalt daarom zijn eigen salaris- en beloningsbeleid, los van het CAO Rijk. Dit is noodzakelijk om te kunnen concurreren met internationale onderzoeksinstellingen, technologiebedrijven en investeringsorganisaties, en om profielen aan te trekken die zowel academisch excellent als ondernemend zijn. Het gaat daarbij nadrukkelijk niet om schaal, maar om het kunnen aantrekken van een beperkt aantal uitzonderlijke mensen."
+        },
+        {
+          "type": "text",
+          "content": "Werving en selectie verlopen via door NADI zelf vastgestelde procedures. Daarbij wordt expliciet ruimte gelaten voor actieve benadering, referenties en persoonlijke netwerken als wervingsinstrument. In domeinen waar expertise schaars is en reputatie zwaar weegt, zijn dergelijke informele signalen vaak betrouwbaarder dan formele open procedures alleen. Deze aanpak vergroot de kans dat programmaleiders en sleutelmedewerkers daadwerkelijk tot de voorhoede van hun veld behoren. Natuurlijk is het essentieel dat er geen sprake is van conflicterende belangen, bijvoorbeeld omdat bestuurders dubbelfuncties vervullen."
+        },
+        {
+          "type": "text",
+          "content": "Bovendien vraagt de snelheid en vertrouwelijkheid die gepaard gaan met doorbraakinnovatie om een aangepaste benadering van openbaarheid. NADI valt daarom buiten de reguliere toepassing van de Wet open overheid, zoals ook gebruikelijk is bij vergelijkbare organisaties in het buitenland. Dit voorkomt dat vroege ideeën, mislukte experimenten of strategische keuzes voortijdig openbaar worden, wat risicomijdend gedrag zou stimuleren en samenwerking met private partijen kan belemmeren. Transparantie en publieke verantwoording blijven geborgd op het niveau van doelen, middelen en behaalde resultaten, zonder de operationele dynamiek te verstoren."
+        },
+        {
+          "type": "text",
+          "content": "Deze institutionele randvoorwaarden maken het mogelijk dat NADI daadwerkelijk snel, wendbaar en risicobereid opereert. Autonomie, tempo en talent vormen samen één ontwerpprincipe. Maar deze manier van werken kan alleen effect sorteren wanneer zij wordt ondersteund door voldoende schaal en financiële continuïteit."
+        }
+      ]
+    },
+    {
+      "id": "schaal-en-structurele-financiering",
+      "title": "Schaal en structurele financiering",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "NADI kan alleen effectief zijn wanneer het op voldoende schaal opereert. Doorbraakinnovatie is geen pilotactiviteit, maar een portfolio-spel. Het vereist meerdere programma’s tegelijk, over meerdere jaren, met de expliciete verwachting dat een aanzienlijk deel niet tot succes leidt."
+        },
+        {
+          "type": "text",
+          "content": "Daarom is een structureel budget van circa 1 tot 2 miljard euro per vijf jaar noodzakelijk om NADI zijn rol te laten vervullen. Deze schaal maakt het mogelijk om een robuuste portefeuille van programma’s op te bouwen, voldoende parallelle trajecten te verkennen en succesvolle innovaties snel op te schalen richting toepassing."
+        },
+        {
+          "type": "text",
+          "content": "Cruciaal is dat deze middelen meerjarig en voorspelbaar beschikbaar zijn. Zonder financiële stabiliteit verdwijnt de bereidheid om risico te nemen en verliest het model zijn werking."
+        }
+      ]
+    },
+    {
+      "id": "de-rol-van-defensie",
+      "title": "De rol van Defensie",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Daarnaast is het logisch om een vaste reservering van 3 procent van het defensiebudget in te zetten voor doorbraken in defensietechnologie binnen NADI-programma’s. Internationale ervaring toont aan dat defensiegerichte innovatie niet alleen bijdraagt aan nationale veiligheid, maar ook structurele spill-overs oplevert naar civiele toepassingen en de ontwikkeling van nieuwe industrieën. Tegelijkertijd is het van belang dat NADI onafhankelijk blijft opereren, met de mogelijkheid om waar nodig gericht samen te werken met Defensie, volgens het zogenoemde island/bridge-model waarin afstand en verbinding bewust worden gecombineerd. Begin daarom met de oprichting van het civiele NADI, en laat NADI samenwerken met Defensie aan specifieke programma’s als de organisatie staat."
+        }
+      ]
+    },
+    {
+      "id": "wat-nadi-anders-maakt",
+      "title": "Wat NADI anders maakt",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "NADI onderscheidt zich niet doordat het meer geld uitgeeft of nieuwe thema’s introduceert. Het onderscheid zit in hoe het werkt. Probleemgedreven in plaats van instrumentgedreven. Parallel en adaptief in plaats van lineair. Gericht op toepassing in plaats van afronding."
+        },
+        {
+          "type": "text",
+          "content": "Daarmee is NADI geen extra laag in het innovatiestelsel, maar een functionele aanvulling. Het is het mechanisme dat het Nederlandse systeem nu mist om ideeën uit te laten groeien tot maatschappelijke doorbraken."
+        }
+      ]
+    }
+  ]
+}
