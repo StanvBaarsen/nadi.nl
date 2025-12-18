@@ -87,7 +87,7 @@ export const SignatoriesSection: React.FC<SignatoriesSectionProps> = ({ idPrefix
                 >
                     <div className="p-5 lg:p-6 !pb-0 flex-none">
                         <h2 className="text-4xl lg:text-2xl font-bold tracking-tight text-slate-900 mb-2 font-space-grotesk">Onderteken de petitie</h2>
-                        {!isFormSubmitted && <p className="text-slate-600"><i>{signatoriesCount} anderen gingen je voor.</i></p>}
+                        {/* {!isFormSubmitted && <p className="text-slate-600"><i>{signatoriesCount} anderen gingen je voor.</i></p>} */}
                     </div>
                     <div className="p-5 lg:p-6 !pt-6 !pb-0 flex-1 lg:overflow-y-auto lg:scrollbar-hide">
                         <SignatureForm onSign={handleSign} onSubmitted={() => setIsFormSubmitted(true)} idPrefix={idPrefix} />
