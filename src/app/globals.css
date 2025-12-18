@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-space-grotesk);
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #000000;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display), system-ui, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+
+b, strong {
+  font-weight: 600;
+}
+
+i, em {
+  font-style: italic;
+}
+
+u {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+}
+
+::selection {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.article-content a {
+  color: #1d4ed8; /* Blue color */
+  text-decoration: none;
+  background-image: linear-gradient(#1d4ed8, #1d4ed8);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size 0.3s ease;
+  padding-bottom: 2px; /* Offset */
+}
+
+.article-content a:hover {
+  background-size: 100% 2px;
+}
