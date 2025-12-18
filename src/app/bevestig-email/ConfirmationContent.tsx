@@ -10,7 +10,7 @@ export function ConfirmationContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const token = searchParams.get('token');
-  const [status, setStatus] = useState<'loading' | 'success' | 'error'>('loading');
+  const [status, setStatus] = useState<'loading' | 'success' | 'error' | 'already-verified'>('loading');
   const [errorMessage, setErrorMessage] = useState('');
 
   useEffect(() => {
@@ -28,7 +28,11 @@ export function ConfirmationContent() {
         const data = await response.json();
 
         if (response.ok && data.success) {
-          setStatus('success');
+          if (data.alreadyVerified) {
+            setStatus('already-verified');
+          } else {
+            setStatus('success');
+          }
         } else {
           setStatus('error');
           let msg = 'Er is iets misgegaan bij het verifiëren van uw handtekening.';
@@ -58,6 +62,34 @@ export function ConfirmationContent() {
         <p className="text-lg text-gray-500">
           Een moment geduld, we controleren uw handtekening.
         </p>
+      </div>
+    );
+  }
+
+  if (status === 'already-verified') {
+    return (
+      <div className="text-center py-8 animate-in fade-in slide-in-from-bottom-4 duration-700 ease-out">
+        <div className="flex justify-center mb-8">
+          <AnimatedCheckmark />
+        </div>
+        <h1 className="text-3xl font-bold mb-4 font-space-grotesk">Al geverifieerd</h1>
+        <p className="text-lg text-gray-600 mb-10 max-w-md mx-auto">
+          Uw emailadres is al geverifieerd. U hoeft verder niets te doen.
+        </p>
+        <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          <Link 
+            href="/"
+            className="inline-block bg-black text-white px-8 py-4 rounded-full font-medium hover:bg-gray-800 transition-all active:scale-95"
+          >
+            Terug naar home
+          </Link>
+          <Link 
+            href="/voorstel"
+            className="inline-block border border-black text-black px-8 py-4 rounded-full font-medium hover:bg-gray-50 transition-all active:scale-95"
+          >
+            Meer weten over NADI
+          </Link>
+        </div>
       </div>
     );
   }

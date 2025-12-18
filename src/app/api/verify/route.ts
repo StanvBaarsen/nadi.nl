@@ -13,12 +13,16 @@ export async function GET(request: Request) {
     // Find user with this token and check expiry
     const { data: user, error } = await supabase
       .from('signatories')
-      .select('id, email_verification_expiry')
+      .select('id, email_verification_expiry, email_verified')
       .eq('email_verification_token', token)
       .single();
 
     if (error || !user) {
       return NextResponse.json({ error: 'invalid_token' }, { status: 400 });
+    }
+
+    if (user.email_verified) {
+      return NextResponse.json({ success: true, alreadyVerified: true });
     }
 
     const now = new Date();
@@ -32,9 +36,7 @@ export async function GET(request: Request) {
     const { error: updateError } = await supabase
       .from('signatories')
       .update({
-        email_verified: true,
-        email_verification_token: null,
-        email_verification_expiry: null
+        email_verified: true
       })
       .eq('id', user.id);
 
