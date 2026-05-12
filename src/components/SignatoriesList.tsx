@@ -40,7 +40,8 @@ export const SignatoriesList: React.FC<SignatoriesListProps> = ({ signatories })
           } else if (diffInSeconds < 86400) {
               timeAgo = `${Math.floor(diffInSeconds / 3600)} uur geleden`;
           } else {
-              timeAgo = `${Math.floor(diffInSeconds / 86400)} dagen geleden`;
+              const days = Math.floor(diffInSeconds / 86400);
+              timeAgo = `${days} dag${days !== 1 ? 'en' : ''} geleden`;
           }
       }
       
