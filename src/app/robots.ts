@@ -6,7 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
       disallow: [
-        '/bevestig-email',
         '/_next/',
         '/.netlify/functions/',
         '/favicon.ico',

@@ -12,7 +12,7 @@ type PersonProps = {
 	name: string;
 	imageSrc: string;
 	imageAlt: string;
-	description: string;
+	description?: string;
 	links?: SocialLink[];
 	imageClassName?: string;
 	imageStyle?: React.CSSProperties;
@@ -86,9 +86,12 @@ const Person = ({
 						))}
 					</div>
 				</div>
-				<p className="text-gray-700 font-inter leading-relaxed text-sm xl:text-base">
-					{description}
-				</p>
+				{description && (
+					<p
+						className="text-gray-700 font-inter leading-relaxed text-sm xl:text-base [&_a]:underline [&_a]:text-blue-600 hover:[&_a]:text-blue-800"
+						dangerouslySetInnerHTML={{ __html: description }}
+					/>
+				)}
 			</div>
 		</div>
 	);

@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { LetterContent, ProposalContent, SignatoriesContent } from '@/types';
+import { LetterContent, ProposalContent } from '@/types';
 
 const contentDir = path.join(process.cwd(), 'content');
 

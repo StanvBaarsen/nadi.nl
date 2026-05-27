@@ -4,67 +4,137 @@
   },
   "sections": [
     {
-      "id": "intro",
-      "title": "",
+      "id": "waarom-nadi",
+      "title": "Waarom NADI?",
       "blocks": [
         {
           "type": "text",
-          "content": "Nederland staat op een kruispunt. De productiviteitsgroei stagneert, strategische waardeketens verschuiven en maatschappelijke opgaven op het gebied van energie, veiligheid en digitalisering vragen om oplossingen die vandaag nog niet bestaan. Tegelijkertijd zien wij dat Nederland, ondanks een sterke wetenschappelijke positie, deze kennis ondermaats weet te vertalen naar doorbraken met grootschalige maatschappelijke en economische impact."
+          "content": "Nederland is wetenschappelijk een topland. We publiceren meer invloedrijke artikelen per hoofd van de bevolking dan vrijwel elk ander land ter wereld. Toch bereikt relatief weinig van dat onderzoek de markt, zeker vergeleken met landen om ons heen. Een deel van wat wij ontdekken wordt elders verzilverd."
         },
         {
           "type": "text",
-          "content": "Nederland heeft een structureel nieuw instrument nodig om disruptieve innovatie mogelijk te maken. Daarom spreken wij, samen met de mede-ondertekenaars van deze brief, onze expliciete steun uit <b>voor de oprichting van een Nationaal Agentschap voor Disruptieve Innovatie (NADI),</b> gebaseerd op het beproefde ARPA-model."
+          "content": "Tegelijkertijd lopen we vast op problemen waarvoor we alles in huis hebben om ze op te lossen. Te weinig ASML's. Te veel stikstof. Strategische afhankelijkheden in chips, energie en defensie. De vraag is niet of we de wetenschap hebben. De vraag is hoe we van wetenschap naar doorbraken komen."
         },
         {
           "type": "text",
-          "content": "Waarom? Omdat er een structureel knelpunt zit in het Nederlandse innovatiesysteem. <b>Veelbelovende technologieën blijven hangen tussen onderzoek en toepassing, in wat internationaal bekendstaat als de </b><i><b>valley of death</b></i><b>. </b>Dit belemmert onderzoekers met baanbrekende ideeën, ondernemers die nieuwe markten willen creëren en investeerders die bereid zijn risico te nemen maar pas kunnen instappen wanneer cruciale onzekerheden zijn weggenomen. Als technologieën wél worden vercommercialiseerd, gebeurt dat vaak buiten Nederland, waardoor we de economische opbrengsten en maatschappelijke impact mislopen."
+          "content": "Nederland investeert 2,2 procent van het bbp in R&D, ver onder Duitsland (3,1%), België (3,3%) en Zweden (3,6%). Het rapport-Wennink waarschuwt dat zonder structurele investeringen van €151 tot €187 miljard richting 2035 ons verdienvermogen, en daarmee de betaalbaarheid van zorg, onderwijs, defensie en pensioenen, onder druk komt te staan. Het 3%-actieplan van minister Karremans noemt NADI expliciet als één van de negen acties om de innovatiekloof te dichten."
         },
         {
           "type": "text",
-          "content": "Ook zien we dat ontwikkelingsbudgetten in Nederland achterblijven. Nederland blijft steken rond 2,2 tot 2,3 procent R&D-investeringen als aandeel van het bbp, ver onder de 3 procent doelstelling. Tegelijkertijd komen bestaande innovatie-instrumenten grotendeels ten goede aan een kleine groep grote gevestigde bedrijven, terwijl juist jonge en nieuwe spelers historisch verantwoordelijk zijn voor een groot deel van radicale vernieuwing. <b>De huidige instrumenten, hoe waardevol ook, zijn primair ingericht op </b><b>incrementele innovatie, consensus en voorspelbaarheid</b><b>.</b>"
+          "content": "Bestaande instrumenten doen waarvoor ze zijn opgericht, en doen dat goed. NWO financiert excellent fundamenteel onderzoek. Het Groeifonds bouwt consortia. Invest-NL en de ROM's stappen in zodra technologie investeerbaar wordt. Maar geen enkele organisatie stuurt actief op radicale technologische doorbraken onder hoge onzekerheid. Tussen fundamenteel onderzoek en de markt zit een gat dat moet worden weggenomen. Dat is precies wat NADI gaat doen."
+        }
+      ]
+    },
+    {
+      "id": "wat-is-nadi",
+      "title": "Wat is NADI?",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "NADI is een onafhankelijke organisatie die strategische technologische capaciteiten opbouwt door baanbrekend onderzoek te stimuleren, financieren en begeleiden tot het landt bij overheid, industrie en samenleving. Het model is gebaseerd op DARPA (VS, sinds 1958), ARIA (VK, 2022) en SPRIN-D (Duitsland, 2019). DARPA stond aan de basis van GPS, het internet, autonome voertuigen en mRNA-technologie. ARIA en SPRIN-D laten nu al vroege successen zien."
         },
         {
           "type": "text",
-          "content": "NADI kan hier het verschil maken. De conceptopzet zoals uitgewerkt door het ministerie van Economische Zaken, met ondernemende programmaleiders die voor een afgebakende periode de ruimte krijgen om doorbraken te forceren, sluit nauw aan bij wat internationaal bewezen effectief is en bij wat in de praktijk nodig is om innovatie daadwerkelijk te realiseren."
+          "content": "NADI is geen klassiek onderzoeksinstituut. NADI formuleert ambitieuze missies en beweegt onderzoekers, bedrijven en afnemers om verschillende oplossingen te ontwikkelen. De rol is visionaire initiator en regisseur. Het werk zelf gebeurt elders, bij universiteiten, startups en bedrijven."
         },
         {
           "type": "text",
-          "content": "Innovatie kan alleen floreren als er daadwerkelijk risico’s kunnen worden genomen. Het NADI-model gaat daarom uit van een portfolio-aanpak, waarbij programma’s geregeld zullen falen, maar de successen de rest ruimschoots compenseren. Zo speelde het Amerikaanse DARPA onder andere een rol in de ontwikkeling van GPS en zelfrijdende voertuigen, en legde het de basis voor de allereerste vorm van het internet."
+          "content": "Het coalitieakkoord voorziet in een kapitaalstorting van €500 miljoen voor NADI. De Kamerbrief van minister Karremans van februari 2026 bevestigt de toegevoegde waarde op basis van een ambtelijke verkenning."
+        }
+      ]
+    },
+    {
+      "id": "hoe-het-werkt",
+      "title": "Hoe het werkt",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "NADI werkt met missiegedreven programma's. Elk programma start met een groot maatschappelijk of strategisch probleem waarvoor een ambitieuze technologische doorbraak denkbaar is. Het programma definieert het probleem, niet de oplossing."
         },
         {
           "type": "text",
-          "content": "Grote doorbraken vragen echter ook om groot denken, zonder te vervallen in micromanagement en een consensuscultuur. Daarom is het essentieel dat NADI als onafhankelijke organisatie wordt opgericht, op afstand van dagelijkse politieke sturing, bestaande bureaucratische kaders en eerder opgerichte organisaties. Internationale voorbeelden, zoals DARPA en ARPA-E in de Verenigde Staten en SPRIN-D en ARIA in Europa, laten zien dat dit model alleen werkt wanneer autonomie, toptalent, snelheid en een portfolio-benadering institutioneel zijn verankerd. Deze organisaties hebben met relatief beperkte omvang geleid tot technologische doorbraken die complete industrieën en maatschappelijke systemen hebben gevormd, met een uitzonderlijk hoge impact op de samenleving en schatkist."
+          "content": "Eén Program Director leidt elk programma. Dit is iemand die het dichtst komt bij een wetenschapper die grote systemen heeft gebouwd of een ondernemer met een sterke wetenschappelijke achtergrond. Iemand die kansen ziet waar anderen problemen zien. Zij krijgt drie tot vijf jaar, een budget van €20 tot €100 miljoen, en de vrijheid om dat budget naar eigen inzicht in te zetten. Geen klassieke adviescommissies, geen opgelegde verdeelsleutels."
         },
         {
           "type": "text",
-          "content": "De oprichting van NADI past logisch binnen de ambities uit het regeerakkoord, het 3 procent R&D-actieplan en de aanbevelingen uit onder meer het rapport-Wennink. Al deze analyses wijzen in dezelfde richting. Nederland moet meer durven inzetten op innovatie die ons strategisch positioneert in de waardeketens van de toekomst, wil het zijn verdienvermogen, maatschappelijke veerkracht en strategische relevantie behouden."
+          "content": "De Program Director begint met een grondige verkenning. Wat staat er aan de bleeding edge? Welke aannames worden inmiddels als vanzelfsprekend geaccepteerd? Welke routes hebben geen financiering gekregen om institutionele in plaats van wetenschappelijke redenen? Met dat overzicht ontwerpt zij een programma rond een groot probleem of een grote economische kans."
         },
         {
           "type": "text",
-          "content": "Zoals het <a href=\"https://www.kabinetsformatie2025.nl/documenten/2025/12/02/tussenverslag\">tussenverslag</a> van informateur Buma stelt, kan een deel van het NADI-budget uit defensiemiddelen worden gemobiliseerd. Tegelijkertijd benadrukken wij het belang van een bredere missie. Doorbraken op het gebied van energie, digitale infrastructuur, gezondheid, voedsel en veiligheid zijn onlosmakelijk met elkaar verbonden. Juist een breed opgezet agentschap vergroot niet alleen onze veiligheid, maar ook onze maatschappelijke weerbaarheid en toekomstig verdienvermogen. Daarom pleiten wij voor een structureel budget van 1 tot 2 miljard euro per vijf jaar voor NADI, aangevuld met een reservering van 3 procent van het defensiebudget voor doorbraken in defensietechnologie."
+          "content": "Onderzoekers, startups, gevestigde bedrijven en kennisinstellingen worden uitgedaagd om oplossingsroutes in te dienen. Niemand kan vooraf voorspellen welke gaat winnen, dus financiert NADI meerdere routes in parallel. Elk team begint met een relatief kleine zak geld. Teams die voortgang laten zien krijgen meer. Routes die vastlopen worden gestopt. Aanvraagprocedures zijn simpel en snel. De allerbeste teams hebben geen geduld voor trage bureaucratie."
+        }
+      ]
+    },
+    {
+      "id": "voorbeelden",
+      "title": "Voorbeelden van mogelijke programma's",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Wat voor problemen pakt NADI op? Uitdagingen die voor Nederland relevant zijn én waar Nederland voorop kan lopen. Een selectie ter illustratie:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "<b>Onderzeese infrastructuur beschermen.</b> Hoe verdedigen we onderzeese kabels en gaspijpleidingen tegen sabotage? Routes lopen van sensoren op de kabels, naar autonome onderzeeërs die patrouilleren, tot AI-modellen die op satellietbeelden verdachte scheepsbewegingen herkennen.",
+            "<b>Energieopslag zonder zware metalen.</b> Hoe ontwikkelen we batterijen op basis van grondstoffen die we hier in overvloed hebben, zonder afhankelijkheid van zware metalen die we elders moeten halen?",
+            "<b>Cognitieve achteruitgang stoppen.</b> Hoe voorkomen we Alzheimer en andere vormen van dementie voordat de eerste symptomen zich aandienen?",
+            "<b>Milieuvriendelijke landbouw op exportschaal.</b> Hoe behouden we onze positie als grote landbouwexporteur en maken we de sector milieuvriendelijk? Met bijvoorbeeld robotica voor gemengde teelt, de kas van de toekomst, of precisiefermentatie.",
+            "<b>Zuinige AI-chips.</b> Hoe ontwerpen we een chiparchitectuur sneller en zuiniger, en hier produceerbaar?",
+            "<b>Navigatie zonder GPS.</b> Hoe produceren we sensoren voor navigatie onder water, onder de grond, of in andere GPS-loze omgevingen?"
+          ]
         },
         {
           "type": "text",
-          "content": "Tot slot willen wij onderstrepen dat timing cruciaal is. Andere landen investeren nu doelgericht in ARPA-achtige organisaties en trekken daarmee talent, kapitaal en kennis aan. Uitstel vergroot het risico dat Nederland structureel achterop raakt in technologieën die de komende decennia bepalend zullen zijn."
+          "content": "De gemene deler is steeds een ambitieuze technologische hypothese met substantiële economische of strategische waarde. De inhoudelijke keuzes liggen bij de Program Directors, met thematische sturing vanuit de politiek op hoog niveau."
+        }
+      ]
+    },
+    {
+      "id": "falen",
+      "title": "Falen hoort bij het ontwerp",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Acht van de tien programma's zullen technisch of commercieel niet slagen. Dat hoort bij het ontwerp. Een organisatie waar elk programma slaagt heeft simpelweg niet genoeg ambitie. De waarde zit in de twee programma's die wél een doorbraak opleveren. Omdat elk programma zó ambitieus is opgezet, kan één succesvol programma miljarden aan economische waarde en strategische capaciteit genereren, en de mislukte routes ruimschoots compenseren."
         },
         {
           "type": "text",
-          "content": "Wij roepen de betrokkenen bij de formatie op om expliciet ruimte te maken voor de oprichting van een Nationaal Agentschap voor Disruptieve Innovatie. Wij zien dit niet als een extra laag in het stelsel, maar als een ontbrekende schakel die wetenschap, ondernemerschap en investeringen effectief met elkaar verbindt. Zo verankeren we onze positie in de waardeketen van morgen en kunnen we doorbraken forceren op de grootste maatschappelijke problemen van vandaag."
+          "content": "De internationale cijfers ondersteunen dit. ARPA-E in de VS zette $3,76 miljard om in $12,1 miljard aan private follow-on financiering, 154 nieuwe bedrijven en 29 exits ter waarde van $21,9 miljard. SPRIN-D haalt €4 tot €7 aan private follow-on per geïnvesteerde euro. Het ARPA-model is geen experiment. Het is een bewezen model met meetbare resultaten."
+        }
+      ]
+    },
+    {
+      "id": "brug-naar-markt",
+      "title": "Brug naar de markt",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "NADI neemt het wetenschappelijk risico weg dat geen andere partij wil dragen. Engineering risico (kunnen we het bouwen?) en marktrisico (is er een afnemer?) worden voor durfinvesteerders interessant zodra de wetenschap werkt. De challenge zelf definieert het probleem helder, waardoor het marktrisico afneemt. De overheid kan als launching customer optreden en het eerste afnemerschap garanderen, bijvoorbeeld door zich te committeren aan de inkoop van een eerste prototype en later honderd of duizend exemplaren."
         },
         {
           "type": "text",
-          "content": "Met vertrouwen in de toekomst,"
+          "content": "Zo ontstaat een natuurlijke keten. NADI financiert de meest onzekere fase waar bestaande subsidies niet voor geschikt zijn en investeerders nog te veel risico zien. Teams die laten zien dat de wetenschap werkt worden vervolgens interessant voor durfkapitaal, Invest-NL en regionale ontwikkelingsmaatschappijen. Oud-ARIA-directeur Ilan Gur vatte het kernachtig samen: investeerders surfen golven die al in opkomst zijn. NADI maakt de golven zelf."
+        }
+      ]
+    },
+    {
+      "id": "wat-anders",
+      "title": "Wat NADI anders maakt",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Het onderscheid van NADI zit niet in budget of thema's. Het zit in werkwijze. Probleemgedreven in plaats van instrumentgedreven. Parallel en adaptief in plaats van lineair. Gericht op toepassing in plaats van publicatie. Eén beslisser met mandaat in plaats van commissies die consensus zoeken en risico-avers zijn."
         },
         {
           "type": "text",
-          "content": "<a href=\"https://linkedin.com/in/jelleprins\">Jelle Prins</a> & <a href=\"https://linkedin.com/in/onnoericblom\">Onno Eric Blom</a>"
+          "content": "Daarmee is NADI een functionele aanvulling die het Nederlandse systeem nu mist om ambitieuze ideeën uit te laten groeien tot maatschappelijke doorbraken."
+        },
+        {
+          "type": "text",
+          "content": "Lees meer over de werking van NADI op <a href=\"/voorstel\">de uitgebreide toelichting</a>."
         }
       ]
     }
-  ],
-  "cta": {
-    "headline": "Steun dit voorstel",
-    "description": "Voeg uw naam toe aan deze brief",
-    "buttonText": "Onderteken de brief"
-  }
+  ]
 }

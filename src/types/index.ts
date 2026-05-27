@@ -35,14 +35,3 @@ export interface ProposalContent {
 export type ProposalSection = Section;
 export type ProposalBlock = Block;
 export type LetterSection = Section;
-
-export interface Signatory {
-  name: string;
-  role: string;
-  affiliation: string;
-  created_at?: string;
-}
-
-export interface SignatoriesContent {
-  signatories: Signatory[];
-}

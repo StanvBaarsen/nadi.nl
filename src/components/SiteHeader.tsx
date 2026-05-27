@@ -58,7 +58,7 @@ export const SiteHeader: React.FC<HeaderProps> = ({ className = '', children }) 
   };
 
   const navLinks = [
-    { path: '/', label: 'Petitie' },
+    { path: '/', label: 'Over NADI' },
     { path: '/voorstel', label: 'Hoe werkt NADI?' },
   ];
 
