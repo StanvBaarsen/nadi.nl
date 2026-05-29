@@ -37,28 +37,6 @@
       ]
     },
     {
-      "id": "drietraps-instrumentarium",
-      "title": "Het drietraps-instrumentarium",
-      "blocks": [
-        {
-          "type": "text",
-          "content": "Programma’s vormen de hoofdmoot van NADI, maar niet het enige instrument. Het ARPA-model laat zien dat een effectieve doorbraakorganisatie meerdere snelheden moet kunnen hanteren. NADI werkt daarom met drie soorten activiteiten, elk met een eigen rol en tijdshorizon."
-        },
-        {
-          "type": "text",
-          "content": "<b>Programs</b> zijn de hoofdmoot. Eén Program Director, een budget van €20 tot €100 miljoen, een looptijd van drie tot vijf jaar en meerdere parallelle oplossingsroutes. Dit is waar NADI de meest onzekere, transformatieve doorbraken najaagt en waar het grootste deel van de middelen heen gaat."
-        },
-        {
-          "type": "text",
-          "content": "<b>NADI Challenges</b> zijn kortere, gerichter ingestoken trajecten van één tot drie jaar, met een budget van €15 tot €40 miljoen. Ze worden vaak vormgegeven via het Europese pre-commercial procurement framework, waarbij partijen zoals ProRail of Schiphol mede-initiator en launching customer kunnen zijn. Een Challenge stelt een scherp afgebakende technologische vraag en koppelt die direct aan een eerste afnemer."
-        },
-        {
-          "type": "text",
-          "content": "<b>Kortere activiteiten</b> vullen het instrumentarium aan. Opportunity seeds financieren snelle verkenningen van veelbelovende ideeën voordat een volwaardig programma wordt opgetuigd. Talent labs trekken uitzonderlijke onderzoekers en ondernemers aan en geven hen ruimte om binnen NADI nieuwe programma’s voor te bereiden. Scale-up programma’s ondersteunen teams die uit een Program of Challenge komen bij de overgang naar markt, opschaling en vervolgfinanciering."
-        }
-      ]
-    },
-    {
       "id": "de-rol-van-de-program-director",
       "title": "De rol van de Program Director",
       "blocks": [
@@ -87,6 +65,28 @@
         {
           "type": "text",
           "content": "De Program Director stuurt actief op voortgang. Zij kan gericht teams en bedrijven uitnodigen om deel te nemen aan het programma en middelen toewijzen zonder zware bureaucratische procedures. Op vaste, frequente evaluatiemomenten wordt besloten of trajecten worden voortgezet, aangepast of beëindigd. Middelen worden daarbij snel herverdeeld naar oplossingsroutes die aantoonbare voortgang laten zien. Succes leidt niet tot verlenging omwille van continuïteit, maar tot gerichte opschaling richting toepassing en implementatie."
+        }
+      ]
+    },
+    {
+      "id": "drietraps-instrumentarium",
+      "title": "Het drietraps-instrumentarium",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Programma’s vormen de hoofdmoot van NADI, maar niet het enige instrument. Het ARPA-model laat zien dat een effectieve doorbraakorganisatie meerdere snelheden moet kunnen hanteren. NADI werkt daarom met drie soorten activiteiten, elk met een eigen rol en tijdshorizon."
+        },
+        {
+          "type": "text",
+          "content": "<b>Programs</b> zijn de hoofdmoot. Eén Program Director, een budget van €20 tot €100 miljoen, een looptijd van drie tot vijf jaar en meerdere parallelle oplossingsroutes. Dit is waar NADI de meest onzekere, transformatieve doorbraken najaagt en waar het grootste deel van de middelen heen gaat."
+        },
+        {
+          "type": "text",
+          "content": "<b>NADI Challenges</b> zijn kortere, gerichter ingestoken trajecten van één tot drie jaar, met een budget van €15 tot €40 miljoen. Ze worden vaak vormgegeven via het Europese pre-commercial procurement framework, waarbij partijen zoals ProRail of Schiphol mede-initiator en launching customer kunnen zijn. Een Challenge stelt een scherp afgebakende technologische vraag en koppelt die direct aan een eerste afnemer."
+        },
+        {
+          "type": "text",
+          "content": "<b>Kortere activiteiten</b> vullen het instrumentarium aan. Opportunity seeds financieren snelle verkenningen van veelbelovende ideeën voordat een volwaardig programma wordt opgetuigd. Talent labs trekken uitzonderlijke onderzoekers en ondernemers aan en geven hen ruimte om binnen NADI nieuwe programma’s voor te bereiden. Scale-up programma’s ondersteunen teams die uit een Program of Challenge komen bij de overgang naar markt, opschaling en vervolgfinanciering."
         }
       ]
     },
@@ -179,20 +179,6 @@
         {
           "type": "text",
           "content": "Deze institutionele randvoorwaarden maken het mogelijk dat NADI daadwerkelijk snel, wendbaar en risicobereid opereert. Autonomie, tempo en talent vormen samen één ontwerpprincipe. Maar deze manier van werken kan alleen effect sorteren wanneer zij wordt ondersteund door voldoende schaal en financiële continuïteit."
-        }
-      ]
-    },
-    {
-      "id": "conflicterende-belangen",
-      "title": "Conflicterende belangen",
-      "blocks": [
-        {
-          "type": "text",
-          "content": "Het werven via netwerken en het toekennen van middelen aan teams door één Program Director vraagt om een helder kader voor belangenverstrengeling. NADI hanteert een expliciet recusal-protocol, zoals gebruikelijk bij internationale ARPA’s. Program Directors en bestuursleden melden vooraf alle relaties met onderzoekers, bedrijven en investeerders waarmee een mogelijk belang kan ontstaan. Bij besluiten waar dergelijke relaties spelen, treden zij actief terug uit de besluitvorming. Dubbelfuncties zijn geen beletsel om voor NADI te werken, maar zij worden geregistreerd en getoetst, en leiden waar nodig tot recusal."
-        },
-        {
-          "type": "text",
-          "content": "Deze werkwijze houdt de snelheid en de informele wervingskracht van NADI in stand, zonder dat individuele belangen het oordeel kunnen kleuren over wie middelen ontvangt."
         }
       ]
     },
