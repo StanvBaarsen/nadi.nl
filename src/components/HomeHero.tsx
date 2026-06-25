@@ -1,5 +1,7 @@
 'use client';
 import React from 'react';
+import Link from 'next/link';
+import { ArrowRight } from 'lucide-react';
 import FadeIn from '@/components/animations/FadeIn';
 import PixelatedImageReveal from '@/components/animations/PixelatedImageReveal';
 
@@ -35,6 +37,23 @@ export const HomeHero: React.FC = () => {
             gridSize={32}
           />
         </div>
+
+        <FadeIn delay={1400} className="w-full mt-6 mb-10">
+          <Link
+            href="/open-brief"
+            className="group block w-full max-w-xl mx-auto text-left rounded-2xl border border-black/5 bg-white px-6 py-5 shadow-sm transition-all hover:shadow-md hover:border-black/10"
+          >
+            <div className="flex items-center gap-4">
+              <p className="text-base md:text-lg text-slate-800 leading-snug">
+                <span className="font-bold text-blue-700">Update 21 juni 2026:</span> Investeerders, onderzoekers, kennisinstellingen en bedrijven roepen samen op tot de oprichting van NADI in een gezamenlijke open brief aan de Tweede Kamer.
+              </p>
+              <ArrowRight
+                size={22}
+                className="shrink-0 text-slate-400 transition-colors group-hover:text-slate-900"
+              />
+            </div>
+          </Link>
+        </FadeIn>
       </div>
     </div>
   );

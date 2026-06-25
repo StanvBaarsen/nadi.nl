@@ -60,6 +60,7 @@ export const SiteHeader: React.FC<HeaderProps> = ({ className = '', children }) 
   const navLinks = [
     { path: '/', label: 'Over NADI' },
     { path: '/voorstel', label: 'Hoe werkt NADI?' },
+    { path: '/open-brief', label: 'Open brief' },
   ];
 
   return (
@@ -84,7 +85,7 @@ export const SiteHeader: React.FC<HeaderProps> = ({ className = '', children }) 
         {/* Center Navigation - Desktop */}
         <div 
           ref={navRef}
-          className="absolute hidden min-[500px]:grid grid-flow-col auto-cols-[1fr] left-1/2 transform -translate-x-1/2 items-center gap-2 lg:gap-8"
+          className="absolute hidden md:grid grid-flow-col auto-cols-[1fr] left-1/2 transform -translate-x-1/2 items-center gap-2 lg:gap-8"
           onMouseLeave={() => setHoveredPath(null)}
         >
           {navLinks.map((link) => (
@@ -114,7 +115,7 @@ export const SiteHeader: React.FC<HeaderProps> = ({ className = '', children }) 
           
           {/* Mobile Menu Button */}
           <button 
-            className="min-[500px]:hidden p-2 text-gray-900 relative w-10 h-10 flex items-center justify-center z-[70]"
+            className="md:hidden p-2 text-gray-900 relative w-10 h-10 flex items-center justify-center z-[70]"
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
             aria-label="Toggle menu"
           >
@@ -139,8 +140,8 @@ export const SiteHeader: React.FC<HeaderProps> = ({ className = '', children }) 
       {/* Mobile Menu Overlay */}
       {mounted && createPortal(
         <div 
-          className={`fixed inset-0 bg-white z-[60] pt-24 px-6 min-[500px]:hidden flex flex-col gap-6 transition-all duration-500 ease-[cubic-bezier(0.32,0.72,0,1)] ${
-            isMobileMenuOpen ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-full pointer-events-none'
+          className={`fixed inset-0 bg-white z-[60] pt-24 px-6 md:hidden flex flex-col gap-6 transition-opacity duration-300 ease-out ${
+            isMobileMenuOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'
           }`}
         >
           <button 
@@ -155,14 +156,12 @@ export const SiteHeader: React.FC<HeaderProps> = ({ className = '', children }) 
             <Link
               key={link.path}
               href={link.path}
-              className={`text-2xl font-display font-medium border-b border-gray-100 pb-4 transition-all duration-500 ${
+              className={`text-2xl font-display font-medium border-b border-gray-100 pb-4 transition-opacity duration-300 ease-out ${
                 isActive(link.path) ? 'text-blue-600' : 'text-gray-900'
               } ${
-                isMobileMenuOpen 
-                  ? 'opacity-100 translate-x-0' 
-                  : 'opacity-0 -translate-x-4'
+                isMobileMenuOpen ? 'opacity-100' : 'opacity-0'
               }`}
-              style={{ transitionDelay: `${100 + index * 50}ms` }}
+              style={{ transitionDelay: isMobileMenuOpen ? `${80 + index * 60}ms` : '0ms' }}
             >
               {link.label}
             </Link>

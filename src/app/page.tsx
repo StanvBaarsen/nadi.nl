@@ -17,7 +17,7 @@ export default async function Home() {
         <div className="pt-24 lg:pt-32">
           <HomeHero />
 
-          <div className="bg-white rounded-3xl p-0 md:p-0 xl:p-12 mb-20 max-w-4xl mx-auto">
+          <div className="bg-white rounded-3xl p-0 md:p-0 xl:p-12 mt-12 mb-20 max-w-4xl mx-auto">
             <main>
               <div className="article-content prose prose-lg prose-slate max-w-none">
                 {letter.sections.map((section) => (
